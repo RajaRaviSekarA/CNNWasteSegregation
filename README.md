@@ -66,7 +66,7 @@ Findings
 ## Acknowledgements
 I want to credit upGrad for the Master of Science in Machine Learning and Artificial Intelligence (AI/ML) degree alongside IIIT-Bangalore, and LJMU, UK
 - This project was inspired by all the Professors who trained us during the Convolutional Neural Networks, namely
-  - G.Srinivasaraghavan - Professor, IIT-B
+  - G.Srinivasaraghavan - Professor, IIIT-B
 
 ## Contact
 Created by [@rajaravisekara] - feel free to contact me, Raja - Sr Architect - AI Cloud
