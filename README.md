@@ -10,9 +10,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Analyse the Data with 7 category Cardboard, Food_Waste, Glass, Metal, Other, Paper, Plastic
-- Load the data, data preparation, preprocess image, data visualisation and plot the categories
-- Visualize sample images, data splitting to Training, Test and Validation
+- Analyse the Data with 7 categories: Cardboard, Food_Waste, Glass, Metal, Other, Paper, Plastic
+- Load the data, data preparation, preprocess the image, data visualisation, and plot the categories
+- Visualize sample images, data splitting to Training, Test, and Validation
 - Build the Model, Train the model and Evaluate the model
 - Plot the Training vs Validation Accuracy and Loss graph
 - Refine the model as expected to prevent overfitting, augmentation, dropout, and learning rate
@@ -21,8 +21,8 @@
 - Evaluation of validation data and prediction
 - Save the model
 - Create the classification report and the confusion matrix
-- Show some images, and predictions from generator
-  
+- Show some images and predictions from the generator
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
@@ -46,7 +46,7 @@ Findings
 - NumPy objects to create arrays/metrics to apply DL/ML modelsPython Programming
 - Panda for Data Wrangling and Data manipulation purposes
 - Seaborn to create visually appealing statistical graphics
-- Matplotlib to create a range of plots and visualization
+- Matplotlib to create a range of plots and visualizations
 - RE for regular expression
 - Scipy is user-firendly and efficient numerical routines
 - Shutil is high-level file operations
