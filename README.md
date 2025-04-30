@@ -1,5 +1,5 @@
 # Convolutional Neural Networks - Waste Segregation case study for MS - AI/ML
-> This is a case study for Convolutional Neural Networks - Waste Segregation case study
+> This is a case study for Convolutional Neural Networks - Waste Segregation
 
 ## Table of Contents
 * [General Info](#general-information)
