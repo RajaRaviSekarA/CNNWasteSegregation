@@ -6,6 +6,7 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
+* [Contact](#Contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -24,22 +25,6 @@
 - Show some images and predictions from the generator
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-Accuracy, Loss and Overfitting 
-- Training accuracy improved
-- Validation accuracy improved to 64%
-- Learning rate reduced, smoothing training & avoiding overshooting
-- Accuracies stayed close around 5%
-- Overall, the epoch took 200s; it can be optimized with better hardware
-
-Findings 
-- Category Plastic has the best metrics, maybe due to more samples or features that is distinctive and stand out better in the training.
-- There is model confusion between similar classes, like cardboard vs paper
-- The performance is low due to data imbalance, category similarity, like paper vs cardboard
-- The model would have improved with MobileNetV2, ResNet along with Batch Normalization, Dropouts, and Regularization, which is used here to reduce the overfitting. 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - Python Programming
@@ -63,10 +48,25 @@ Findings
 
 <!-- As the library versions keep on changing, it is recommended to mention the version of the library used in this project -->
 
+## Conclusions
+Accuracy, Loss and Overfitting 
+- Training accuracy improved
+- Validation accuracy improved to 64%
+- Learning rate reduced, smoothing training & avoiding overshooting
+- Accuracies stayed close around 5%
+- Overall, the epoch took 200s; it can be optimized with better hardware
+
+Findings 
+- Category Plastic has the best metrics, maybe due to more samples or features that is distinctive and stand out better in the training.
+- There is model confusion between similar classes, like cardboard vs paper
+- The performance is low due to data imbalance, category similarity, like paper vs cardboard
+- The model would have improved with MobileNetV2, ResNet along with Batch Normalization, Dropouts, and Regularization, which is used here to reduce the overfitting. 
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 ## Acknowledgements
 I want to credit upGrad for the Master of Science in Machine Learning and Artificial Intelligence (AI/ML) degree alongside IIIT-Bangalore, and LJMU, UK
-- This project was inspired by all the Professors who trained us during the Convolutional Neural Networks, namely
-  - G.Srinivasaraghavan - Professor, IIIT-B
+- This project was inspired by all the Professors who trained us during the Convolutional Neural Networks, namely G.Srinivasaraghavan - Professor, IIIT-B
 
 ## Contact
 Created by [@rajaravisekara] - feel free to contact me, Raja - Sr Architect - AI Cloud
